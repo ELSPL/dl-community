@@ -40,3 +40,27 @@
 * [Predict visual stimuli from MEG recordings](https://www.kaggle.com/c/decoding-the-human-brain)
 
 ### Finance and Investment
+
+### Agriculture
+1. Input (seeds, fertilizers, animal food)
+2. Production (from sowing to harvest)
+3. Processing and storage
+4. Distribution/logistics
+5. Retail
+
+* [Selective Herbicide Spraying](http://www.bluerivertechnology.com/)
+* [Automatizing sowing with small autonomous robots](http://dorhoutrd.com/prospero_robot_farmer)
+* [Automatizing Strawberry picking](http://harvestcroorobotics.com/)
+* [Plant disease and deficiency detection](https://plantix.net/)
+* [Assesing soil genomics](https://plantix.net/)
+* [Leveraging Drone data to improve yield in vineyards](https://www.vineview.ca/#productnav)
+* [Leveraging Aerial/Satellite imagery in farming 1](http://resson.com/value/)
+* [Leveraging Aerial/Satellite imagery in farming 2](https://telluslabs.com/)
+* [Leveraging Aerial/Satellite imagery in farming 3](https://www.intelinair.com/agmri-product/)
+
+
+
+
+
+
+
