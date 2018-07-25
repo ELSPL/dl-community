@@ -52,6 +52,7 @@ Click through for detailed summary notes from each session:
   
 ## Platforms for Using fastai (GPU required)
 * [Paperspace setup](tools/paperspace.md)
+* [StreamInterrupt Docker Container](https://github.com/ELSPL/dockerfiles/tree/master/fastai)
 * [Paperspace Docker Container](https://hub.docker.com/r/paperspace/fastai/)
 * [Set up personal deep learning box (home computer)](tools/setup_personal_dl_box.md)
 * [manual: bash script for setup](http://files.fast.ai/setup/paperspace)
