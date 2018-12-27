@@ -1,6 +1,6 @@
 # Session IX: Word Vectors, AI *x* Fashion, and U-Net
 
-*Meeting date: March 6th, 2017*
+Meeting date: 
 
 This session marked the beginning of our coverage of Stanford's [CS224d](https://cs224d.stanford.edu/) course, which is taught by [Richard Socher](http://www.socher.org/) and focuses on Deep Learning applied to Natural Language Processing. 
 

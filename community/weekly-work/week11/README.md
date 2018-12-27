@@ -1,6 +1,6 @@
 # Session XI: Recurrent Neural Networks, including GRUs and LSTMs
 
-*Meeting date: April 19th, 2017*
+Meeting date: 
 
 For our third consecutive session, we focused on [CS224d](https://cs224d.stanford.edu/), which is taught by [Richard Socher](http://www.socher.org/) and covers *Natural Language Processing with Deep Learning*. The Stanford University School of Engineering released the [Winter 2017 lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) on April 3rd, so we began working from that collection. 
 

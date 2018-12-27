@@ -1,6 +1,6 @@
 # Session VII: Implementing Convolutional Nets
 
-*Meeting date: January 12th, 2017*
+Meeting date: 
 
 By continuing to make our way through the material from Andrej Karpathy and Justin Johnson's CS231n (Stanford) lectures, we covered a broad range of practicalities and best practices for implementing convolutional neural nets. 
 

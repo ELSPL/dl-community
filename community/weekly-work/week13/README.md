@@ -1,6 +1,6 @@
 # Session XIII: Model Architectures for Answering Questions and Overcoming NLP Limits
 
-*Meeting date: August 5th, 2017* 
+Meeting date: 
 
 Lucky Session Numero 13 concludes our journey through the Stanford [Winter 2017 CS224N lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) on *Natural Language Processing with Deep Learning*. This session marks the first anniversary of the Deep Learning Study Group -- we held our first meeting on August 17th, 2016. Woot woot. 
 

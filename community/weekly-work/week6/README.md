@@ -1,6 +1,6 @@
 # Session 6: Convolutional Neural Networks for Visual Recognition
 
-Meeting date: November 30th, 2016
+Meeting date: 
 
 This was our first session since completing Michael Nielsen's [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) text. 
 

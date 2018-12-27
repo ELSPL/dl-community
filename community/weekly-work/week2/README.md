@@ -1,5 +1,5 @@
 # Week 2
-meeting date: *09-06-2016*
+meeting date: 
 
 ### Covered
 - [Chapter 2](http://neuralnetworksanddeeplearning.com/chap2.html) from Nielsen's Ebook

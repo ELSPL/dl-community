@@ -1,6 +1,6 @@
 # Session X: word2vec Mania + GANs
 
-*Meeting date: March 27th, 2017*
+Meeting date: 
 
 We continued coverage Stanford's [CS224d](https://cs224d.stanford.edu/) course, which is taught by [Richard Socher](http://www.socher.org/) and focuses on Deep Learning applied to Natural Language Processing. 
 

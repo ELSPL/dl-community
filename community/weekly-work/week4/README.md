@@ -1,6 +1,6 @@
 # Week 4
 
-meeting date: 10-20-2016
+meeting date: 
 
 ## Covered
 

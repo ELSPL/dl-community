@@ -1,6 +1,6 @@
 # Session XIV: Reinforcement Learning
 
-*Meeting date: October XXth, 2017* 
+Meeting date:  
 
 We're kicking off our coverage of the field of Reinforcement Learning with this session. 
 

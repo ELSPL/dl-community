@@ -1,6 +1,6 @@
 # Session 5: Deep (Conv)Nets
 
-Meeting date: November 10th, 2016
+Meeting date: 
 
 ## Recommended Preparatory Work
 

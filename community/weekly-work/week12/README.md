@@ -1,6 +1,6 @@
 # Session XII: Models with Attention
 
-*Meeting date: July 1st, 2017* (Happy 150th Birthday, Canada!)
+Meeting date: 
 
 For our fourth consecutive session, we delved into *Natural Language Processing with Deep Learning* by following along with the Stanford [Winter 2017 CS224N lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6). 
 

@@ -1,6 +1,6 @@
 # Session VIII: Unsupervised Learning, Regularisation, and Venture Capital
 
-*Meeting date: February 7th, 2017*
+Meeting date: 
 
 With this session, we wrapped up our coverage of [CS231n](http://cs231n.github.io/) (Stanford) lectures, which were delivered by now-familiar faces Andrej Karpathy and Justin Johnson as well as guest lecturer, Google Senior Fellow Jeff Dean. 
 
